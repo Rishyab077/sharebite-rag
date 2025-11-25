@@ -1,0 +1,41 @@
+
+1. What is ShareBite - ShareBite is a food donation platform designed to connect people with surplus food to those in need ,it allows restaurants ,individuals, and event organizers to donate leftover food safely and efficiently.
+2. What is Add Donation – Donors can list their name, food items, quantity, pickup location.
+3. What is Donation History – Here u can see can all the donations donations which are being to donate.
+4. What is Admin Dashboard – Admin can approve, manage ,or delete donations.
+5. What is AI Assistant – Users can ask questions about food safety, storage, or ShareBite’s process.
+6. What are safety guidelines - Cooked food should be donated within 4 hours of preparation, avoid donating perishable food that has been stored at room temperature for too long, all donations should be properly packed and labeled with the preparation date.
+7. What is purpose of ShareBite - ShareBite aims to reduce food waste and hunger by connecting donors and recipients through technology.
+8. How many days apples will be fresh - Fresh apples stay good for around 3–4 days at room temperature ,if stored in the refrigerator ,they can stay fresh for 2–3 weeks. Refrigeration slows down moisture loss and prevents spoilage.
+9. How many days cooked vegetables will be fresh – 2 to 3 days
+10. For how long can sweets without milk remain fresh – About 4 to 5 days.
+11. How long does fried rice stay safe – 1 to 2 days refrigerated
+12. Do veg and non veg should be packed in differnt boxes - Yes
+13. Can I donate biscuits - Yes ,unopened biscuits are usually packaged safely and can last 2–3 weeks or even more. They are a good donation item because they do not spoil quickly and are easy to transport.
+14. Can cooked rice be eaten after 3 days in the fridge – Yes
+15. Should water also be donated along with meals if possible – Yes
+16. Can expired packaged food be donated – No
+17. How long can chicken curry stay good – 1 to 2 days in the refrigerator.
+18. Should hot food be cooled before packing – Yes
+19. Can cut fruits be donated – No, they spoil faster and are unsafe.
+20. Can we donate canned food – Yes, if sealed and not expired.
+21. Can cold drinks be donated – Yes, if sealed and not expired.
+22. How long does cooked paneer curry remain safe – About 2 days in the refrigerator.
+23. How long can chicken curry stay good – 1 to 2 days in the refrigerator.
+24. Can we donate raw vegetables – Yes, they stay fresh for 4 to 7 days if clean.
+25. Can homemade snacks be donated – Yes, if hygienic and properly packed.
+26. Are sweets suitable for donation - Sweets without milk can remain fresh for 4–5 days and are good candidates for donation, Milk-based sweets spoil faster and should be donated within a shorter time frame to ensure safety.
+27. Can we donate tea or coffee – Yes, if fresh and properly covered.
+28. How long can boiled potatoes remain safe - Boiled potatoes stay safe for around 2–3 days when stored in the refrigerator, If kept outside for too long, they may develop bacteria or become sour, making them unsuitable for donation.
+29. Can packaged noodles be donated – Yes, if unopened and not expired.
+30. Should leftover food from plates be donated – No
+31. Can milk-based dishes be donated - Milk-based dishes such as kheer, paneer gravy, or custard should be donated only when freshly prepared and kept refrigerated if not delivered immediately, these foods spoil faster because milk supports quick bacterial growth, so careful handling is important.
+32. Why should food with strong smell be packed properly - Foods with a strong smell, like biryani or garlic dishes, should be packed in airtight containers to prevent the odor from spreading to other items, this keeps the donation bag pleasant and maintains the natural flavor of each food.
+33. Can fruit juices be donated - Fresh fruit juice can be donated if consumed within a few hours of preparation. Packaged juice, if unopened, stays good for weeks and is easier to donate safely because it does not spoil quickly.
+34. Should food be checked before accepting donations - Food should always be inspected visually and smelled before acceptance, this basic check helps identify spoiled food, broken packets, or items that are not safe for consumption before they reach the recipient.
+35. Can leftover party food be donated - Leftover food from parties, events, and gatherings can be donated if it has not been touched, was stored cleanly, and is still fresh. Large events often generate surplus meals that can meaningfully help others.
+36. Do raw food items are accepted - Raw food such as uncooked vegetables, grains, or rice can be donated because they stay fresh for longer and allow receivers to cook them according to their preferences and culture.
+37. How long do oranges stay good for - Oranges usually remain fresh for 1–2 weeks depending on storage conditions. Their thick skin naturally protects them, making them a dependable fruit for food donation.
+38. Why should donation food not be overly spicy - Extremely spicy food may cause discomfort to children, elderly people, or those with health conditions, mild to medium spice levels make food suitable for a wider range of people who may receive the donation.
+39. Can fruits with minor scratches be donated - Fruits with light scratches but firm flesh are still edible and safe for donation. However, fruits with deep cuts, fungus, or liquid leakage should not be donated due to spoilage risk.
+40. How long can bread remain safe for donation - Bread usually stays fresh for 3–5 days when stored in a cool, dry place. It should be checked for mold before donation, as bread can spoil quickly in humid conditions.
