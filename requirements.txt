@@ -4,3 +4,4 @@ langchain
 sentence-transformers
 faiss-cpu
 transformers
+torch==2.9.1+cpu --index-url https://download.pytorch.org/whl/cpu
